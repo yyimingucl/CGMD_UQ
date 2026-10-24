@@ -8,6 +8,7 @@ Maxime Vassaux, Xinju Dong, Shunzhou Wan, Wouter Edeling, Yiming Yang, Antigoni 
 
 * `data/`: folder which contains the CG MD data generated on OLCF Frontier.
 * `das_pytorch.ipynb`: jupyter notebook with pytorch code for reproducing the deep active subspace results.
+* `kas.ipynb`: Jupyter notebook for reproducing the kernel active subspace results using Gaussian process surrogates.
 
 ## Acknowledgements
 
